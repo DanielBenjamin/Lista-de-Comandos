@@ -1,0 +1,8 @@
+Comandos de Instalacion de NPM
+1.- npm install ${package} -g ( Se instala de forma global )
+
+2.- npm install ${package} --save ( Se instala de forma local: si o si debe haber
+estas dependencias para que pueda funcionar todo el proyecto )
+
+3.- npm install ${package} --save-dev ( Se instalara como una dependencia de desarrollo
+Osea que solo es nesesario este paquete para programas funcionalidades )
